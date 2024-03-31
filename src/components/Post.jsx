@@ -48,6 +48,7 @@ export function Post() {
         <Comment />
         <Comment />
       </div>
+
     </article>
   );
 }
